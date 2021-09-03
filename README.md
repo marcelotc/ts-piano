@@ -1,3 +1,1 @@
-# ts-piano
-
-[DEMO](https://tspiano.netlify.app/)
+# [DEMO](https://tspiano.netlify.app/)
