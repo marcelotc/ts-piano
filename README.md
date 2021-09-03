@@ -1,4 +1,4 @@
-# pipefy
+# Ts Piano
 
 [DEMO](https://tspiano.netlify.app/)
 
