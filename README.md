@@ -2,4 +2,8 @@
 
 [DEMO](https://tspiano.netlify.app/)
 
-![](piano.png)
+<p align="center">
+  <a href="https://tspiano.netlify.app/">
+    <img alt="Demo on Netlify" src="piano.png">
+  </a>
+</p>
